@@ -1,2 +1,1 @@
-# aut-internship-report
-AUT Internship Report
+# AUT Internship Report
